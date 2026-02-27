@@ -95,9 +95,3 @@ FastAPI architecture, Azure AI, hybrid search, vector databases and production L
 ---
 [![](https://visitcount.itsvg.in/api?id=talibilat&icon=2&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-If anything is empty do not display also make the quote cover the while width
