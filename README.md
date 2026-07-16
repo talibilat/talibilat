@@ -24,15 +24,15 @@ Four repos, one vision: a personal AI that runs your operations.
 <tr>
 <td width="50%">
 
-**The brain**
-[![zoe](https://github-readme-stats.vercel.app/api/pin/?username=talibilat&repo=Zoe-Jarvis-&theme=github_dark&bg_color=0d1117&hide_border=true)](https://github.com/talibilat/Zoe-Jarvis-)
+**The brain: [Zoe](https://github.com/talibilat/Zoe-Jarvis-)**
+
 Autonomous personal agent: memory, reasoning, tool use.
 
 </td>
 <td width="50%">
 
-**The voice**
-[![vox](https://github-readme-stats.vercel.app/api/pin/?username=talibilat&repo=vox&theme=github_dark&bg_color=0d1117&hide_border=true)](https://github.com/talibilat/vox)
+**The voice: [Vox](https://github.com/talibilat/vox)**
+
 Wake word, spoken replies, sub-200ms barge-in for coding agents.
 
 </td>
@@ -40,16 +40,16 @@ Wake word, spoken replies, sub-200ms barge-in for coding agents.
 <tr>
 <td width="50%">
 
-**The hands**
-[![zentra](https://github-readme-stats.vercel.app/api/pin/?username=talibilat&repo=zentra&theme=github_dark&bg_color=0d1117&hide_border=true)](https://github.com/talibilat/zentra)
+**The hands: [Zentra](https://github.com/talibilat/zentra)**
+
 Orchestration kernel: durable events, worktrees, safe integration.
 
 </td>
 <td width="50%">
 
-**The black box**
-[![agent-trail](https://github-readme-stats.vercel.app/api/pin/?username=talibilat&repo=agent-trail&theme=github_dark&bg_color=0d1117&hide_border=true)](https://github.com/talibilat/agent-trail)
-Flight recorder for multi-agent runs: graphs, replay, proof.
+**The window: [Agent Trail](https://github.com/talibilat/agent-trail)**
+
+Visual observability for Zoe and Zentra: see every command, event, agent handoff, and outcome under the hood.
 
 </td>
 </tr>
@@ -61,12 +61,12 @@ Flight recorder for multi-agent runs: graphs, replay, proof.
 <tr>
 <td width="50%">
 
-[![job-search-intelligence](https://github-readme-stats.vercel.app/api/pin/?username=talibilat&repo=job-search-intelligence&theme=github_dark&bg_color=0d1117&hide_border=true)](https://github.com/talibilat/job-search-intelligence)
+**[Job Search Intelligence](https://github.com/talibilat/job-search-intelligence)**
 
 </td>
 <td width="50%">
 
-[![Resume-Matcher](https://github-readme-stats.vercel.app/api/pin/?username=talibilat&repo=Resume-Matcher&theme=github_dark&bg_color=0d1117&hide_border=true)](https://github.com/talibilat/Resume-Matcher)
+**[Resume Matcher](https://github.com/talibilat/Resume-Matcher)**
 
 </td>
 </tr>
@@ -75,9 +75,6 @@ Flight recorder for multi-agent runs: graphs, replay, proof.
 ## Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=talibilat&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talibilat&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&langs_count=6" height="165" alt="Top languages">
 
 <img src="https://streak-stats.demolab.com?user=talibilat&theme=github-dark-blue&background=0d1117&hide_border=true" height="165" alt="Streak">
 
