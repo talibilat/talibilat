@@ -22,6 +22,8 @@
 
 [Zoe](https://github.com/talibilat/Zoe-Jarvis-) · [Vox](https://github.com/talibilat/vox) · [Zentra](https://github.com/talibilat/zentra) · [Agent Trail](https://github.com/talibilat/agent-trail)
 
+[View the dashboard data](./assets/agent-stack.json)
+
 </div>
 
 ## Applied AI

@@ -1,0 +1,165 @@
+{
+  "generated_at": "2026-07-16T17:18:14.777Z",
+  "profile": {
+    "login": "talibilat",
+    "html_url": "https://github.com/talibilat",
+    "public_repos": 42,
+    "public_gists": 0,
+    "followers": 6,
+    "following": 6
+  },
+  "merged_pull_requests": 298,
+  "achievements": [
+    {
+      "slug": "pull-shark",
+      "name": "Pull Shark",
+      "tier": "x3"
+    },
+    {
+      "slug": "quickdraw",
+      "name": "Quickdraw",
+      "tier": "x1"
+    },
+    {
+      "slug": "yolo",
+      "name": "YOLO",
+      "tier": "x1"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Jupyter Notebook",
+      "bytes": 56018499,
+      "percentage": 85.8447263897269
+    },
+    {
+      "name": "Python",
+      "bytes": 3885799,
+      "percentage": 5.954735630465115
+    },
+    {
+      "name": "TypeScript",
+      "bytes": 2815919,
+      "percentage": 4.315213731282471
+    },
+    {
+      "name": "Other",
+      "bytes": 2535392,
+      "percentage": 3.8853242485255173
+    }
+  ],
+  "featured_repositories": [
+    {
+      "name": "Zoe-Jarvis-",
+      "full_name": "talibilat/Zoe-Jarvis-",
+      "html_url": "https://github.com/talibilat/Zoe-Jarvis-",
+      "description": "Your own Jarvis",
+      "language": "Python",
+      "visibility": "public",
+      "default_branch": "main",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "pushed_at": "2026-03-01T01:35:53Z",
+      "updated_at": "2026-03-01T01:35:56Z",
+      "activity_12_weeks": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "vox",
+      "full_name": "talibilat/vox",
+      "html_url": "https://github.com/talibilat/vox",
+      "description": "Earshot: voice-to-voice control for terminal coding agents (opencode, Claude Code, codex). Wake word, spoken responses, sub-200ms barge-in, and a named multi-agent fleet you conduct by voice.",
+      "language": "Python",
+      "visibility": "public",
+      "default_branch": "main",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "pushed_at": "2026-07-09T17:03:07Z",
+      "updated_at": "2026-07-09T17:03:25Z",
+      "activity_12_weeks": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        20,
+        1
+      ]
+    },
+    {
+      "name": "zentra",
+      "full_name": "talibilat/zentra",
+      "html_url": "https://github.com/talibilat/zentra",
+      "description": null,
+      "language": "TypeScript",
+      "visibility": "public",
+      "default_branch": "main",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 15,
+      "pushed_at": "2026-07-16T17:12:01Z",
+      "updated_at": "2026-07-16T17:11:54Z",
+      "activity_12_weeks": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        189
+      ]
+    },
+    {
+      "name": "agent-trail",
+      "full_name": "talibilat/agent-trail",
+      "html_url": "https://github.com/talibilat/agent-trail",
+      "description": null,
+      "language": "Python",
+      "visibility": "public",
+      "default_branch": "main",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "pushed_at": "2026-07-16T13:34:37Z",
+      "updated_at": "2026-07-16T13:35:39Z",
+      "activity_12_weeks": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        10
+      ]
+    }
+  ]
+}

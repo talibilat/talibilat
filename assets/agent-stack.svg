@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="844" height="505" viewBox="0 0 844 505" role="img" aria-labelledby="title description">
   <title id="title">The agent stack</title>
-  <desc id="description">Four repository cards for Zoe, Vox, Zentra, and Agent Trail, followed by language and profile statistics.</desc>
+  <desc id="description">Live GitHub data for Zoe, Vox, Zentra, Agent Trail, languages, repositories, followers, pull requests, and achievements.</desc>
   <defs>
     <style>
       .ui { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
@@ -8,87 +8,89 @@
       .heading { fill: #f0f6fc; font-size: 22px; font-weight: 700; }
       .eyebrow { fill: #7d8590; font-size: 13px; letter-spacing: .35px; }
       .name { fill: #f0f6fc; font-size: 16px; font-weight: 700; }
-      .body { fill: #9da7b3; font-size: 13px; }
-      .meta { fill: #9da7b3; font-size: 12px; }
-      .active { fill: #3fb950; font-size: 12px; }
+      .repo { fill: #7d8590; font-size: 10.5px; }
+      .body { fill: #9da7b3; font-size: 12.5px; }
+      .meta { fill: #9da7b3; font-size: 11.5px; text-transform: capitalize; }
+      .progress { fill: #7d8590; font-size: 9.5px; }
+      .active { fill: #3fb950; font-size: 11.5px; }
+      .quiet { fill: #d29922; font-size: 11.5px; }
       .metric { fill: #f0f6fc; font-size: 25px; font-weight: 700; }
       .metric-hot { fill: #f7812f; font-size: 25px; font-weight: 700; }
-      .label { fill: #9da7b3; font-size: 12px; }
+      .label { fill: #9da7b3; font-size: 11.5px; }
+      .sub-label { fill: #7d8590; font-size: 9px; }
       .card { fill: #0d1117; stroke: #30363d; }
       .spark { fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
     </style>
-    <clipPath id="language-bar">
-      <rect x="50" y="412" width="333" height="11" rx="5.5" />
-    </clipPath>
+    <clipPath id="language-bar"><rect x="50" y="431" width="333" height="11" rx="5.5" /></clipPath>
   </defs>
-
   <rect width="844" height="505" fill="#0d1117" />
-
   <g class="ui">
     <text class="heading" x="24" y="28">The agent stack</text>
-    <text class="eyebrow mono" x="201" y="27">four repos, one vision</text>
-
-    <rect class="card" x="25" y="45" width="384" height="143" rx="10" />
-    <text class="name" x="46" y="87">zoe</text>
-    <path class="spark" stroke="#3fb950" d="M238 89 L249 86 L261 82 L273 80 L284 76 L295 79 L307 77 L318 72 L329 77 L342 79 L354 80 L365 75 L376 74 L388 77" />
-    <text class="body" x="46" y="120">The brain. Autonomous personal agent: memory,</text>
-    <text class="body" x="46" y="140">reasoning, tool use.</text>
-    <circle cx="50" cy="163" r="4.5" fill="#4493c8" />
-    <text class="meta" x="60" y="167">Python</text>
-    <text class="meta" x="112" y="167">Public</text>
-    <text class="active" x="159" y="167">▲ active</text>
-
-    <rect class="card" x="423" y="45" width="384" height="143" rx="10" />
-    <text class="name" x="444" y="87">vox</text>
-    <path class="spark" stroke="#58a6ff" d="M636 89 L648 83 L659 80 L671 81 L682 81 L693 86 L705 91 L716 94 L728 89 L740 85 L751 87 L763 93 L774 94 L786 94" />
-    <text class="body" x="444" y="120">The voice. Wake word, spoken replies, sub-200ms barge-</text>
-    <text class="body" x="444" y="140">in for coding agents.</text>
-    <circle cx="448" cy="163" r="4.5" fill="#4493c8" />
-    <text class="meta" x="458" y="167">Python</text>
-    <text class="meta" x="510" y="167">Public</text>
-    <text class="active" x="557" y="167">▲ active</text>
-
-    <rect class="card" x="25" y="202" width="384" height="143" rx="10" />
-    <text class="name" x="46" y="244">zentra</text>
-    <path class="spark" stroke="#a371f7" d="M238 247 L250 245 L261 240 L273 241 L284 241 L295 236 L307 243 L318 235 L330 239 L341 234 L353 232 L365 234 L376 240 L388 240" />
-    <text class="body" x="46" y="277">The hands. Orchestration kernel: durable events,</text>
-    <text class="body" x="46" y="297">worktrees, safe integration.</text>
-    <circle cx="50" cy="320" r="4.5" fill="#4493c8" />
-    <text class="meta" x="60" y="324">TypeScript</text>
-    <text class="meta" x="128" y="324">Public</text>
-    <text class="active" x="175" y="324">▲ active</text>
-
-    <rect class="card" x="423" y="202" width="384" height="143" rx="10" />
-    <text class="name" x="444" y="244">agent-trail</text>
-    <path class="spark" stroke="#f7812f" d="M636 244 L648 243 L659 248 L671 241 L682 236 L694 232 L705 229 L717 227 L728 228 L740 232 L751 238 L763 231 L774 235 L786 229" />
-    <text class="body" x="444" y="277">The window. See commands to Zoe unfold inside Zentra:</text>
-    <text class="body" x="444" y="297">events, handoffs, and outcomes under the hood.</text>
-    <circle cx="448" cy="320" r="4.5" fill="#4493c8" />
-    <text class="meta" x="458" y="324">Python</text>
-    <text class="meta" x="510" y="324">Public</text>
-    <text class="active" x="557" y="324">▲ active</text>
-
-    <rect class="card" x="25" y="361" width="384" height="108" rx="10" />
-    <text class="name" x="50" y="396">Languages</text>
+    <text class="eyebrow mono" x="201" y="27">live GitHub data</text>
+    <rect class="card" x="25" y="45" width="384" height="155" rx="10" />
+    <text class="name" x="46" y="79">zoe</text>
+    <text class="repo mono" x="46" y="98">talibilat/Zoe-Jarvis-</text>
+    <path class="spark" stroke="#3fb950" d="M238.0 92.0 L251.6 92.0 L265.3 92.0 L278.9 92.0 L292.5 92.0 L306.2 92.0 L319.8 92.0 L333.5 92.0 L347.1 92.0 L360.7 92.0 L374.4 92.0 L388.0 92.0" />
+    <text class="body" x="46" y="124">Your own Jarvis</text>
+    <circle cx="50" cy="164" r="4.5" fill="#4493c8" />
+    <text class="meta" x="60" y="168">Python</text>
+    <text class="meta" x="137" y="168">public</text>
+    <text class="quiet" x="186" y="168">● quiet</text>
+    <text class="progress mono" x="46" y="189">0 commits / 12w  ·  ★ 0  ·  0 open  ·  pushed 137d ago</text>
+    <rect class="card" x="423" y="45" width="384" height="155" rx="10" />
+    <text class="name" x="444" y="79">vox</text>
+    <text class="repo mono" x="444" y="98">talibilat/vox</text>
+    <path class="spark" stroke="#58a6ff" d="M636.0 92.0 L649.6 92.0 L663.3 92.0 L676.9 92.0 L690.5 92.0 L704.2 92.0 L717.8 92.0 L731.5 92.0 L745.1 92.0 L758.7 92.0 L772.4 70.0 L786.0 90.9" />
+    <text class="body" x="444" y="124">Earshot: voice-to-voice control for terminal coding</text>
+    <text class="body" x="444" y="143">agents (opencode, Claude Code, codex). Wake word, spoken…</text>
+    <circle cx="448" cy="164" r="4.5" fill="#4493c8" />
+    <text class="meta" x="458" y="168">Python</text>
+    <text class="meta" x="535" y="168">public</text>
+    <text class="active" x="584" y="168">▲ active</text>
+    <text class="progress mono" x="444" y="189">21 commits / 12w  ·  ★ 0  ·  0 open  ·  pushed 7d ago</text>
+    <rect class="card" x="25" y="212" width="384" height="155" rx="10" />
+    <text class="name" x="46" y="246">zentra</text>
+    <text class="repo mono" x="46" y="265">talibilat/zentra</text>
+    <path class="spark" stroke="#a371f7" d="M238.0 259.0 L251.6 259.0 L265.3 259.0 L278.9 259.0 L292.5 259.0 L306.2 259.0 L319.8 259.0 L333.5 259.0 L347.1 259.0 L360.7 259.0 L374.4 259.0 L388.0 237.0" />
+    <text class="body" x="46" y="291">The hands. Orchestration kernel for durable events and</text>
+    <text class="body" x="46" y="310">safe integration.</text>
+    <circle cx="50" cy="331" r="4.5" fill="#4493c8" />
+    <text class="meta" x="60" y="335">TypeScript</text>
+    <text class="meta" x="137" y="335">public</text>
+    <text class="active" x="186" y="335">▲ active</text>
+    <text class="progress mono" x="46" y="356">189 commits / 12w  ·  ★ 0  ·  15 open  ·  pushed today</text>
+    <rect class="card" x="423" y="212" width="384" height="155" rx="10" />
+    <text class="name" x="444" y="246">agent-trail</text>
+    <text class="repo mono" x="444" y="265">talibilat/agent-trail</text>
+    <path class="spark" stroke="#f7812f" d="M636.0 259.0 L649.6 259.0 L663.3 259.0 L676.9 259.0 L690.5 259.0 L704.2 259.0 L717.8 259.0 L731.5 259.0 L745.1 259.0 L758.7 259.0 L772.4 259.0 L786.0 237.0" />
+    <text class="body" x="444" y="291">The window. Visual observability for commands moving</text>
+    <text class="body" x="444" y="310">through Zentra.</text>
+    <circle cx="448" cy="331" r="4.5" fill="#4493c8" />
+    <text class="meta" x="458" y="335">Python</text>
+    <text class="meta" x="535" y="335">public</text>
+    <text class="active" x="584" y="335">▲ active</text>
+    <text class="progress mono" x="444" y="356">10 commits / 12w  ·  ★ 0  ·  0 open  ·  pushed today</text>
+    <rect class="card" x="25" y="379" width="384" height="106" rx="10" />
+    <text class="name" x="50" y="414">Languages</text>
     <g clip-path="url(#language-bar)">
-      <rect x="50" y="412" width="193" height="11" fill="#4493c8" />
-      <rect x="243" y="412" width="57" height="11" fill="#2f81f7" />
-      <rect x="300" y="412" width="40" height="11" fill="#c4510c" />
-      <rect x="340" y="412" width="43" height="11" fill="#6e7681" />
+      <rect x="50.0" y="431" width="285.9" height="11" fill="#da5b0b" />
+      <rect x="335.9" y="431" width="19.8" height="11" fill="#4493c8" />
+      <rect x="355.7" y="431" width="14.4" height="11" fill="#3178c6" />
+      <rect x="370.1" y="431" width="12.9" height="11" fill="#6e7681" />
     </g>
-    <text class="label" x="50" y="446">Python 58%</text>
-    <text class="label" x="128" y="446">TypeScript 17%</text>
-    <text class="label" x="242" y="446">Jupyter 12%</text>
-    <text class="label" x="317" y="446">Other 13%</text>
-
-    <rect class="card" x="423" y="361" width="384" height="108" rx="10" />
-    <text class="metric-hot" x="449" y="418">42</text>
-    <text class="label" x="449" y="436">public repos</text>
-    <text class="metric" x="545" y="418">6</text>
-    <text class="label" x="545" y="436">followers</text>
-    <text class="metric" x="624" y="418">×3</text>
-    <text class="label" x="624" y="436">pull shark</text>
-    <text class="metric" x="709" y="418">5</text>
-    <text class="label" x="709" y="436">achievements</text>
+    <text class="label" x="50" y="465">Jupyter 86%</text>
+    <text class="label" x="158" y="465">Python 6%</text>
+    <text class="label" x="242" y="465">TypeScript 4%</text>
+    <text class="label" x="333" y="465">Other 4%</text>
+    <rect class="card" x="423" y="379" width="384" height="106" rx="10" />
+    <text class="metric-hot" x="449" y="433">42</text>
+    <text class="label" x="449" y="453">public repos</text>
+    <text class="metric" x="545" y="433">6</text>
+    <text class="label" x="545" y="453">followers</text>
+    <text class="metric" x="624" y="433">x3</text>
+    <text class="label" x="624" y="453">pull shark</text>
+    <text class="sub-label" x="624" y="469">298 merged PRs</text>
+    <text class="metric" x="699" y="433">3</text>
+    <text class="label" x="699" y="453">achievements</text>
   </g>
 </svg>
