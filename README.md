@@ -16,44 +16,13 @@
 
 [![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=talibilat&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&area_color=1f6feb&hide_border=true&radius=8)](https://github.com/talibilat)
 
-## The agent stack
+<div align="center">
 
-Four repos, one vision: a personal AI that runs your operations.
+<img src="./assets/agent-stack.svg" width="100%" alt="The agent stack: Zoe, Vox, Zentra, and Agent Trail">
 
-<table>
-<tr>
-<td width="50%">
+[Zoe](https://github.com/talibilat/Zoe-Jarvis-) · [Vox](https://github.com/talibilat/vox) · [Zentra](https://github.com/talibilat/zentra) · [Agent Trail](https://github.com/talibilat/agent-trail)
 
-**The brain: [Zoe](https://github.com/talibilat/Zoe-Jarvis-)**
-
-Autonomous personal agent: memory, reasoning, tool use.
-
-</td>
-<td width="50%">
-
-**The voice: [Vox](https://github.com/talibilat/vox)**
-
-Wake word, spoken replies, sub-200ms barge-in for coding agents.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**The hands: [Zentra](https://github.com/talibilat/zentra)**
-
-Orchestration kernel: durable events, worktrees, safe integration.
-
-</td>
-<td width="50%">
-
-**The window: [Agent Trail](https://github.com/talibilat/agent-trail)**
-
-Visual observability for Zoe and Zentra: see every command, event, agent handoff, and outcome under the hood.
-
-</td>
-</tr>
-</table>
+</div>
 
 ## Applied AI
 
@@ -71,14 +40,6 @@ Visual observability for Zoe and Zentra: see every command, event, agent handoff
 </td>
 </tr>
 </table>
-
-## Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=talibilat&theme=github-dark-blue&background=0d1117&hide_border=true" height="165" alt="Streak">
-
-</div>
 
 <div align="center">
 
