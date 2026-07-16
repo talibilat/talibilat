@@ -16,70 +16,9 @@
 
 [![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=talibilat&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&area_color=1f6feb&hide_border=true&radius=8)](https://github.com/talibilat)
 
-## The agent stack
-
-Four repos, one vision: a personal AI that runs your operations.
-
-<table>
-<tr>
-<td width="50%">
-
-**The brain**
-[![zoe](https://github-readme-stats.vercel.app/api/pin/?username=talibilat&repo=Zoe-Jarvis-&theme=github_dark&bg_color=0d1117&hide_border=true)](https://github.com/talibilat/Zoe-Jarvis-)
-Autonomous personal agent: memory, reasoning, tool use.
-
-</td>
-<td width="50%">
-
-**The voice**
-[![vox](https://github-readme-stats.vercel.app/api/pin/?username=talibilat&repo=vox&theme=github_dark&bg_color=0d1117&hide_border=true)](https://github.com/talibilat/vox)
-Wake word, spoken replies, sub-200ms barge-in for coding agents.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**The hands**
-[![zentra](https://github-readme-stats.vercel.app/api/pin/?username=talibilat&repo=zentra&theme=github_dark&bg_color=0d1117&hide_border=true)](https://github.com/talibilat/zentra)
-Orchestration kernel: durable events, worktrees, safe integration.
-
-</td>
-<td width="50%">
-
-**The black box**
-[![agent-trail](https://github-readme-stats.vercel.app/api/pin/?username=talibilat&repo=agent-trail&theme=github_dark&bg_color=0d1117&hide_border=true)](https://github.com/talibilat/agent-trail)
-Flight recorder for multi-agent runs: graphs, replay, proof.
-
-</td>
-</tr>
-</table>
-
-## Applied AI
-
-<table>
-<tr>
-<td width="50%">
-
-[![job-search-intelligence](https://github-readme-stats.vercel.app/api/pin/?username=talibilat&repo=job-search-intelligence&theme=github_dark&bg_color=0d1117&hide_border=true)](https://github.com/talibilat/job-search-intelligence)
-
-</td>
-<td width="50%">
-
-[![Resume-Matcher](https://github-readme-stats.vercel.app/api/pin/?username=talibilat&repo=Resume-Matcher&theme=github_dark&bg_color=0d1117&hide_border=true)](https://github.com/talibilat/Resume-Matcher)
-
-</td>
-</tr>
-</table>
-
-## Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=talibilat&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talibilat&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&langs_count=6" height="165" alt="Top languages">
-
-<img src="https://streak-stats.demolab.com?user=talibilat&theme=github-dark-blue&background=0d1117&hide_border=true" height="165" alt="Streak">
+<img src="./assets/agent-stack.svg" width="100%" alt="The agent stack: Vox, Zentra, Agent Trail, and Limit Bar">
 
 </div>
 
