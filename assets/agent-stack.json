@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T17:35:45.705Z",
+  "generated_at": "2026-07-16T17:36:56.123Z",
   "profile": {
     "login": "talibilat",
     "html_url": "https://github.com/talibilat",
@@ -8,7 +8,7 @@
     "followers": 6,
     "following": 6
   },
-  "merged_pull_requests": 298,
+  "merged_pull_requests": 299,
   "achievements": [
     {
       "slug": "pull-shark",
@@ -30,22 +30,22 @@
     {
       "name": "Jupyter Notebook",
       "bytes": 56018499,
-      "percentage": 85.8447263897269
+      "percentage": 85.82418296428891
     },
     {
       "name": "Python",
       "bytes": 3885799,
-      "percentage": 5.954735630465115
+      "percentage": 5.953310607955612
     },
     {
       "name": "TypeScript",
       "bytes": 2815919,
-      "percentage": 4.315213731282471
+      "percentage": 4.314181061306506
     },
     {
       "name": "Other",
-      "bytes": 2535392,
-      "percentage": 3.8853242485255173
+      "bytes": 2551012,
+      "percentage": 3.908325366448975
     }
   ],
   "featured_repositories": [
@@ -62,16 +62,8 @@
       "open_issues": 0,
       "pushed_at": "2026-07-09T17:03:07Z",
       "updated_at": "2026-07-09T17:03:25Z",
-      "activity_window_days": 15,
+      "activity_window_days": 7,
       "activity_days": [
-        "2026-07-02",
-        "2026-07-03",
-        "2026-07-04",
-        "2026-07-05",
-        "2026-07-06",
-        "2026-07-07",
-        "2026-07-08",
-        "2026-07-09",
         "2026-07-10",
         "2026-07-11",
         "2026-07-12",
@@ -80,15 +72,7 @@
         "2026-07-15",
         "2026-07-16"
       ],
-      "daily_activity_15_days": [
-        0,
-        0,
-        0,
-        64,
-        0,
-        100,
-        0,
-        5,
+      "daily_activity": [
         0,
         0,
         0,
@@ -97,8 +81,8 @@
         0,
         0
       ],
-      "pushes_15_days": 21,
-      "other_events_15_days": 148,
+      "pushes": 0,
+      "other_events": 0,
       "activity_truncated": false
     },
     {
@@ -114,16 +98,8 @@
       "open_issues": 15,
       "pushed_at": "2026-07-16T17:12:01Z",
       "updated_at": "2026-07-16T17:11:54Z",
-      "activity_window_days": 15,
+      "activity_window_days": 7,
       "activity_days": [
-        "2026-07-02",
-        "2026-07-03",
-        "2026-07-04",
-        "2026-07-05",
-        "2026-07-06",
-        "2026-07-07",
-        "2026-07-08",
-        "2026-07-09",
         "2026-07-10",
         "2026-07-11",
         "2026-07-12",
@@ -132,15 +108,7 @@
         "2026-07-15",
         "2026-07-16"
       ],
-      "daily_activity_15_days": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+      "daily_activity": [
         0,
         0,
         29,
@@ -149,8 +117,8 @@
         30,
         77
       ],
-      "pushes_15_days": 71,
-      "other_events_15_days": 229,
+      "pushes": 71,
+      "other_events": 229,
       "activity_truncated": true
     },
     {
@@ -166,16 +134,8 @@
       "open_issues": 0,
       "pushed_at": "2026-07-16T13:34:37Z",
       "updated_at": "2026-07-16T13:35:39Z",
-      "activity_window_days": 15,
+      "activity_window_days": 7,
       "activity_days": [
-        "2026-07-02",
-        "2026-07-03",
-        "2026-07-04",
-        "2026-07-05",
-        "2026-07-06",
-        "2026-07-07",
-        "2026-07-08",
-        "2026-07-09",
         "2026-07-10",
         "2026-07-11",
         "2026-07-12",
@@ -184,15 +144,7 @@
         "2026-07-15",
         "2026-07-16"
       ],
-      "daily_activity_15_days": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+      "daily_activity": [
         0,
         0,
         0,
@@ -201,8 +153,8 @@
         1,
         5
       ],
-      "pushes_15_days": 13,
-      "other_events_15_days": 93,
+      "pushes": 13,
+      "other_events": 93,
       "activity_truncated": false
     },
     {
@@ -218,16 +170,8 @@
       "open_issues": 2,
       "pushed_at": "2026-07-16T13:47:17Z",
       "updated_at": "2026-07-16T13:30:16Z",
-      "activity_window_days": 15,
+      "activity_window_days": 7,
       "activity_days": [
-        "2026-07-02",
-        "2026-07-03",
-        "2026-07-04",
-        "2026-07-05",
-        "2026-07-06",
-        "2026-07-07",
-        "2026-07-08",
-        "2026-07-09",
         "2026-07-10",
         "2026-07-11",
         "2026-07-12",
@@ -236,15 +180,7 @@
         "2026-07-15",
         "2026-07-16"
       ],
-      "daily_activity_15_days": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        23,
+      "daily_activity": [
         24,
         26,
         0,
@@ -253,8 +189,8 @@
         59,
         9
       ],
-      "pushes_15_days": 41,
-      "other_events_15_days": 160,
+      "pushes": 41,
+      "other_events": 160,
       "activity_truncated": false
     }
   ]

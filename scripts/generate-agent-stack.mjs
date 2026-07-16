@@ -7,7 +7,7 @@ const username = process.env.GITHUB_USERNAME || "talibilat";
 const token = process.env.GITHUB_TOKEN || process.env.GH_TOKEN || "";
 const outputPath = resolve(process.argv[2] || "assets/agent-stack.svg");
 const dataPath = resolve(process.argv[3] || "assets/agent-stack.json");
-const activityWindowDays = 15;
+const activityWindowDays = 7;
 
 const featured = [
   {
@@ -219,15 +219,15 @@ function sparkline(values, x, y, width, height) {
 function card(repo, config, x, y) {
   const [descriptionOne, descriptionTwo] = wrapText(repo.description || config.fallback);
   const minimum = repo.activity_truncated ? "+" : "";
-  const activityLabel = `${repo.pushes_15_days}${minimum} pushes / 15d  ·  ${repo.other_events_15_days}${minimum} other  ·  ${repo.open_issues} open  ·  pushed ${relativeAge(repo.pushed_at)}`;
-  const active = repo.pushes_15_days > 0 || repo.other_events_15_days > 0;
+  const activityLabel = `${repo.pushes}${minimum} pushes / ${activityWindowDays}d  ·  ${repo.other_events}${minimum} other  ·  ${repo.open_issues} open  ·  pushed ${relativeAge(repo.pushed_at)}`;
+  const active = repo.pushes > 0 || repo.other_events > 0;
   const status = active ? "▲ active" : "● quiet";
   const statusClass = active ? "active" : "quiet";
   return [
     `<rect class="card" x="${x}" y="${y}" width="384" height="155" rx="10" />`,
     `<text class="name" x="${x + 21}" y="${y + 34}">${escapeXml(config.displayName)}</text>`,
     `<text class="repo mono" x="${x + 21}" y="${y + 53}">${escapeXml(repo.full_name)}</text>`,
-    `<path class="spark" stroke="${config.color}" d="${sparkline(repo.daily_activity_15_days, x + 213, y + 25, 150, 22)}" />`,
+    `<path class="spark" stroke="${config.color}" d="${sparkline(repo.daily_activity, x + 213, y + 25, 150, 22)}" />`,
     `<text class="body" x="${x + 21}" y="${y + 79}">${escapeXml(descriptionOne)}</text>`,
     descriptionTwo ? `<text class="body" x="${x + 21}" y="${y + 98}">${escapeXml(descriptionTwo)}</text>` : null,
     `<circle cx="${x + 25}" cy="${y + 119}" r="4.5" fill="#4493c8" />`,
@@ -297,7 +297,7 @@ function buildSvg(data) {
   <rect width="844" height="505" fill="#0d1117" />
   <g class="ui">
     <text class="heading" x="24" y="28">The agent stack</text>
-    <text class="eyebrow mono" x="201" y="27">15-day GitHub activity</text>
+    <text class="eyebrow mono" x="201" y="27">${activityWindowDays}-day GitHub activity</text>
     ${card(data.featured_repositories[0], featured[0], 25, 45)}
     ${card(data.featured_repositories[1], featured[1], 423, 45)}
     ${card(data.featured_repositories[2], featured[2], 25, 212)}
@@ -350,9 +350,9 @@ async function main() {
         updated_at: repo.updated_at,
         activity_window_days: activityWindowDays,
         activity_days: activity.days,
-        daily_activity_15_days: activity.daily_activity,
-        pushes_15_days: activity.pushes,
-        other_events_15_days: activity.other_events,
+        daily_activity: activity.daily_activity,
+        pushes: activity.pushes,
+        other_events: activity.other_events,
         activity_truncated: activity.truncated,
       };
     }),
