@@ -7,7 +7,7 @@ const username = process.env.GITHUB_USERNAME || "talibilat";
 const token = process.env.GITHUB_TOKEN || process.env.GH_TOKEN || "";
 const outputPath = resolve(process.argv[2] || "assets/agent-stack.svg");
 const dataPath = resolve(process.argv[3] || "assets/agent-stack.json");
-const activityWindowDays = 7;
+const activityWindowDays = 15;
 
 const featured = [
   {
