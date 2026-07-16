@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<img src="./assets/agent-stack.svg" width="100%" alt="The agent stack: Zoe, Vox, Zentra, and Agent Trail">
+<img src="./assets/agent-stack.svg" width="100%" alt="The agent stack: Vox, Zentra, Agent Trail, and Limit Bar">
 
-[Zoe](https://github.com/talibilat/Zoe-Jarvis-) · [Vox](https://github.com/talibilat/vox) · [Zentra](https://github.com/talibilat/zentra) · [Agent Trail](https://github.com/talibilat/agent-trail)
+[Vox](https://github.com/talibilat/vox) · [Zentra](https://github.com/talibilat/zentra) · [Agent Trail](https://github.com/talibilat/agent-trail) · [Limit Bar](https://github.com/talibilat/limit-bar)
 
 [View the dashboard data](./assets/agent-stack.json)
 

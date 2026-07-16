@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T17:18:14.777Z",
+  "generated_at": "2026-07-16T17:25:59.810Z",
   "profile": {
     "login": "talibilat",
     "html_url": "https://github.com/talibilat",
@@ -50,34 +50,6 @@
   ],
   "featured_repositories": [
     {
-      "name": "Zoe-Jarvis-",
-      "full_name": "talibilat/Zoe-Jarvis-",
-      "html_url": "https://github.com/talibilat/Zoe-Jarvis-",
-      "description": "Your own Jarvis",
-      "language": "Python",
-      "visibility": "public",
-      "default_branch": "main",
-      "stars": 0,
-      "forks": 0,
-      "open_issues": 0,
-      "pushed_at": "2026-03-01T01:35:53Z",
-      "updated_at": "2026-03-01T01:35:56Z",
-      "activity_12_weeks": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
       "name": "vox",
       "full_name": "talibilat/vox",
       "html_url": "https://github.com/talibilat/vox",
@@ -90,20 +62,44 @@
       "open_issues": 0,
       "pushed_at": "2026-07-09T17:03:07Z",
       "updated_at": "2026-07-09T17:03:25Z",
-      "activity_12_weeks": [
+      "activity_window_days": 15,
+      "activity_days": [
+        "2026-07-02",
+        "2026-07-03",
+        "2026-07-04",
+        "2026-07-05",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-11",
+        "2026-07-12",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16"
+      ],
+      "daily_activity_15_days": [
+        0,
+        0,
+        0,
+        64,
+        0,
+        100,
+        0,
+        5,
         0,
         0,
         0,
         0,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
-        20,
-        1
-      ]
+        0
+      ],
+      "pushes_15_days": 21,
+      "other_events_15_days": 148,
+      "activity_truncated": false
     },
     {
       "name": "zentra",
@@ -118,7 +114,25 @@
       "open_issues": 15,
       "pushed_at": "2026-07-16T17:12:01Z",
       "updated_at": "2026-07-16T17:11:54Z",
-      "activity_12_weeks": [
+      "activity_window_days": 15,
+      "activity_days": [
+        "2026-07-02",
+        "2026-07-03",
+        "2026-07-04",
+        "2026-07-05",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-11",
+        "2026-07-12",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16"
+      ],
+      "daily_activity_15_days": [
         0,
         0,
         0,
@@ -129,9 +143,15 @@
         0,
         0,
         0,
-        0,
-        189
-      ]
+        29,
+        52,
+        112,
+        30,
+        77
+      ],
+      "pushes_15_days": 71,
+      "other_events_15_days": 229,
+      "activity_truncated": true
     },
     {
       "name": "agent-trail",
@@ -146,7 +166,25 @@
       "open_issues": 0,
       "pushed_at": "2026-07-16T13:34:37Z",
       "updated_at": "2026-07-16T13:35:39Z",
-      "activity_12_weeks": [
+      "activity_window_days": 15,
+      "activity_days": [
+        "2026-07-02",
+        "2026-07-03",
+        "2026-07-04",
+        "2026-07-05",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-11",
+        "2026-07-12",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16"
+      ],
+      "daily_activity_15_days": [
         0,
         0,
         0,
@@ -158,8 +196,66 @@
         0,
         0,
         0,
-        10
-      ]
+        0,
+        100,
+        1,
+        5
+      ],
+      "pushes_15_days": 13,
+      "other_events_15_days": 93,
+      "activity_truncated": false
+    },
+    {
+      "name": "limit-bar",
+      "full_name": "talibilat/limit-bar",
+      "html_url": "https://github.com/talibilat/limit-bar",
+      "description": null,
+      "language": "Swift",
+      "visibility": "public",
+      "default_branch": "main",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 2,
+      "pushed_at": "2026-07-16T13:47:17Z",
+      "updated_at": "2026-07-16T13:30:16Z",
+      "activity_window_days": 15,
+      "activity_days": [
+        "2026-07-02",
+        "2026-07-03",
+        "2026-07-04",
+        "2026-07-05",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-11",
+        "2026-07-12",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16"
+      ],
+      "daily_activity_15_days": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        23,
+        24,
+        26,
+        0,
+        7,
+        53,
+        59,
+        9
+      ],
+      "pushes_15_days": 41,
+      "other_events_15_days": 160,
+      "activity_truncated": false
     }
   ]
 }
