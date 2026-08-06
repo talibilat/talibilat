@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T09:04:59.842Z",
+  "generated_at": "2026-08-06T09:05:19.969Z",
   "profile": {
     "login": "talibilat",
     "html_url": "https://github.com/talibilat",
@@ -30,22 +30,22 @@
     {
       "name": "Jupyter Notebook",
       "bytes": 56018499,
-      "percentage": 75.17790142069106
+      "percentage": 75.16808205257462
     },
     {
       "name": "TypeScript",
-      "bytes": 7525711,
-      "percentage": 10.099648683528816
+      "bytes": 7535445,
+      "percentage": 10.111391025715687
     },
     {
       "name": "Python",
       "bytes": 7171753,
-      "percentage": 9.624630250224044
+      "percentage": 9.623373128308886
     },
     {
       "name": "Other",
       "bytes": 3798619,
-      "percentage": 5.097819645556087
+      "percentage": 5.097153793400801
     }
   ],
   "featured_repositories": [
@@ -64,7 +64,6 @@
       "updated_at": "2026-07-30T22:56:37Z",
       "activity_window_days": 15,
       "activity_days": [
-        "2026-07-22",
         "2026-07-23",
         "2026-07-24",
         "2026-07-25",
@@ -78,7 +77,112 @@
         "2026-08-02",
         "2026-08-03",
         "2026-08-04",
-        "2026-08-05"
+        "2026-08-05",
+        "2026-08-06"
+      ],
+      "daily_activity": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pushes": 1,
+      "other_events": 0,
+      "activity_truncated": false
+    },
+    {
+      "name": "zentra",
+      "full_name": "talibilat/zentra",
+      "html_url": "https://github.com/talibilat/zentra",
+      "description": "Zentra is a local-first orchestration kernel that coordinates bounded software-development tasks through durable events, isolated Git worktrees, deterministic validation, independent review, and serialized integration.",
+      "language": "TypeScript",
+      "visibility": "public",
+      "default_branch": "main",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 3,
+      "pushed_at": "2026-08-05T22:50:54Z",
+      "updated_at": "2026-08-05T22:50:59Z",
+      "activity_window_days": 15,
+      "activity_days": [
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-25",
+        "2026-07-26",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-01",
+        "2026-08-02",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06"
+      ],
+      "daily_activity": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        18,
+        3,
+        0,
+        0,
+        6,
+        0
+      ],
+      "pushes": 10,
+      "other_events": 22,
+      "activity_truncated": false
+    },
+    {
+      "name": "agent-trail",
+      "full_name": "talibilat/agent-trail",
+      "html_url": "https://github.com/talibilat/agent-trail",
+      "description": "Agent Tail is a local CLI and terminal UI for inspecting canonical multi-agent runtime events without a backend. Version 1 directly supports the canonical JSONL emitted by this runtime from a file or standard input.",
+      "language": "Python",
+      "visibility": "public",
+      "default_branch": "main",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "pushed_at": "2026-07-31T19:10:54Z",
+      "updated_at": "2026-07-31T19:11:06Z",
+      "activity_window_days": 15,
+      "activity_days": [
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-25",
+        "2026-07-26",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-01",
+        "2026-08-02",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06"
       ],
       "daily_activity": [
         0,
@@ -102,110 +206,6 @@
       "activity_truncated": false
     },
     {
-      "name": "zentra",
-      "full_name": "talibilat/zentra",
-      "html_url": "https://github.com/talibilat/zentra",
-      "description": "Zentra is a local-first orchestration kernel that coordinates bounded software-development tasks through durable events, isolated Git worktrees, deterministic validation, independent review, and serialized integration.",
-      "language": "TypeScript",
-      "visibility": "public",
-      "default_branch": "main",
-      "stars": 0,
-      "forks": 0,
-      "open_issues": 1,
-      "pushed_at": "2026-08-02T10:57:28Z",
-      "updated_at": "2026-08-02T10:57:34Z",
-      "activity_window_days": 15,
-      "activity_days": [
-        "2026-07-22",
-        "2026-07-23",
-        "2026-07-24",
-        "2026-07-25",
-        "2026-07-26",
-        "2026-07-27",
-        "2026-07-28",
-        "2026-07-29",
-        "2026-07-30",
-        "2026-07-31",
-        "2026-08-01",
-        "2026-08-02",
-        "2026-08-03",
-        "2026-08-04",
-        "2026-08-05"
-      ],
-      "daily_activity": [
-        6,
-        2,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        2,
-        18,
-        3,
-        0,
-        0,
-        0
-      ],
-      "pushes": 11,
-      "other_events": 24,
-      "activity_truncated": false
-    },
-    {
-      "name": "agent-trail",
-      "full_name": "talibilat/agent-trail",
-      "html_url": "https://github.com/talibilat/agent-trail",
-      "description": "Agent Tail is a local CLI and terminal UI for inspecting canonical multi-agent runtime events without a backend. Version 1 directly supports the canonical JSONL emitted by this runtime from a file or standard input.",
-      "language": "Python",
-      "visibility": "public",
-      "default_branch": "main",
-      "stars": 0,
-      "forks": 0,
-      "open_issues": 0,
-      "pushed_at": "2026-07-31T19:10:54Z",
-      "updated_at": "2026-07-31T19:11:06Z",
-      "activity_window_days": 15,
-      "activity_days": [
-        "2026-07-22",
-        "2026-07-23",
-        "2026-07-24",
-        "2026-07-25",
-        "2026-07-26",
-        "2026-07-27",
-        "2026-07-28",
-        "2026-07-29",
-        "2026-07-30",
-        "2026-07-31",
-        "2026-08-01",
-        "2026-08-02",
-        "2026-08-03",
-        "2026-08-04",
-        "2026-08-05"
-      ],
-      "daily_activity": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "pushes": 2,
-      "other_events": 0,
-      "activity_truncated": false
-    },
-    {
       "name": "limit-bar",
       "full_name": "talibilat/limit-bar",
       "html_url": "https://github.com/talibilat/limit-bar",
@@ -220,7 +220,6 @@
       "updated_at": "2026-07-30T18:38:26Z",
       "activity_window_days": 15,
       "activity_days": [
-        "2026-07-22",
         "2026-07-23",
         "2026-07-24",
         "2026-07-25",
@@ -234,10 +233,10 @@
         "2026-08-02",
         "2026-08-03",
         "2026-08-04",
-        "2026-08-05"
+        "2026-08-05",
+        "2026-08-06"
       ],
       "daily_activity": [
-        0,
         0,
         0,
         0,
@@ -251,9 +250,10 @@
         0,
         0,
         0,
+        0,
         0
       ],
-      "pushes": 3,
+      "pushes": 1,
       "other_events": 0,
       "activity_truncated": false
     }
