@@ -30,25 +30,25 @@
     <rect class="card" x="25" y="45" width="384" height="155" rx="10" />
     <text class="name" x="46" y="79">vox</text>
     <text class="repo mono" x="46" y="98">talibilat/vox</text>
-    <path class="spark" stroke="#58a6ff" d="M238.0 92.0 L248.7 92.0 L259.4 92.0 L270.1 92.0 L280.9 92.0 L291.6 92.0 L302.3 92.0 L313.0 70.0 L323.7 92.0 L334.4 92.0 L345.1 92.0 L355.9 92.0 L366.6 92.0 L377.3 92.0 L388.0 92.0" />
+    <path class="spark" stroke="#58a6ff" d="M238.0 92.0 L248.7 92.0 L259.4 92.0 L270.1 92.0 L280.9 92.0 L291.6 92.0 L302.3 70.0 L313.0 92.0 L323.7 92.0 L334.4 92.0 L345.1 92.0 L355.9 92.0 L366.6 92.0 L377.3 92.0 L388.0 92.0" />
     <text class="body" x="46" y="124">Earshot: voice-to-voice control for terminal coding</text>
     <text class="body" x="46" y="143">agents (opencode, Claude Code, codex). Wake word, spoken…</text>
     <circle cx="50" cy="164" r="4.5" fill="#4493c8" />
     <text class="meta" x="60" y="168">Python</text>
     <text class="meta" x="137" y="168">public</text>
     <text class="active" x="186" y="168">▲ active</text>
-    <text class="progress mono" x="46" y="189">1 pushes / 15d  ·  0 other  ·  1 open  ·  pushed 6d ago</text>
+    <text class="progress mono" x="46" y="189">1 pushes / 15d  ·  0 other  ·  1 open  ·  pushed 7d ago</text>
     <rect class="card" x="423" y="45" width="384" height="155" rx="10" />
     <text class="name" x="444" y="79">zentra</text>
     <text class="repo mono" x="444" y="98">talibilat/zentra</text>
-    <path class="spark" stroke="#a371f7" d="M636.0 83.8 L646.7 87.9 L657.4 90.6 L668.1 89.3 L678.9 92.0 L689.6 70.0 L700.3 89.3 L711.0 92.0 L721.7 76.9 L732.4 89.3 L743.1 85.1 L753.9 92.0 L764.6 90.6 L775.3 92.0 L786.0 92.0" />
+    <path class="spark" stroke="#a371f7" d="M636.0 87.9 L646.7 90.6 L657.4 89.3 L668.1 92.0 L678.9 70.0 L689.6 89.3 L700.3 92.0 L711.0 76.9 L721.7 89.3 L732.4 85.1 L743.1 92.0 L753.9 90.6 L764.6 92.0 L775.3 92.0 L786.0 92.0" />
     <text class="body" x="444" y="124">Zentra is a local-first orchestration kernel that</text>
     <text class="body" x="444" y="143">coordinates bounded software-development tasks through d…</text>
     <circle cx="448" cy="164" r="4.5" fill="#4493c8" />
     <text class="meta" x="458" y="168">TypeScript</text>
     <text class="meta" x="535" y="168">public</text>
     <text class="active" x="584" y="168">▲ active</text>
-    <text class="progress mono" x="444" y="189">11 pushes / 15d  ·  44 other  ·  4 open  ·  pushed 1d ago</text>
+    <text class="progress mono" x="444" y="189">10 pushes / 15d  ·  39 other  ·  4 open  ·  pushed 2d ago</text>
     <rect class="card" x="25" y="212" width="384" height="155" rx="10" />
     <text class="name" x="46" y="246">agent-trail</text>
     <text class="repo mono" x="46" y="265">talibilat/agent-trail</text>
@@ -59,7 +59,7 @@
     <text class="meta" x="60" y="335">Python</text>
     <text class="meta" x="137" y="335">public</text>
     <text class="quiet" x="186" y="335">● quiet</text>
-    <text class="progress mono" x="46" y="356">0 pushes / 15d  ·  0 other  ·  0 open  ·  pushed 22d ago</text>
+    <text class="progress mono" x="46" y="356">0 pushes / 15d  ·  0 other  ·  0 open  ·  pushed 23d ago</text>
     <rect class="card" x="423" y="212" width="384" height="155" rx="10" />
     <text class="name" x="444" y="246">limit-bar</text>
     <text class="repo mono" x="444" y="265">talibilat/limit-bar</text>
@@ -70,16 +70,16 @@
     <text class="meta" x="458" y="335">Swift</text>
     <text class="meta" x="535" y="335">public</text>
     <text class="quiet" x="584" y="335">● quiet</text>
-    <text class="progress mono" x="444" y="356">0 pushes / 15d  ·  0 other  ·  2 open  ·  pushed 23d ago</text>
+    <text class="progress mono" x="444" y="356">0 pushes / 15d  ·  0 other  ·  2 open  ·  pushed 24d ago</text>
     <rect class="card" x="25" y="379" width="384" height="106" rx="10" />
     <text class="name" x="50" y="414">Languages</text>
     <g clip-path="url(#language-bar)">
-      <rect x="50.0" y="431" width="248.9" height="11" fill="#da5b0b" />
-      <rect x="298.9" y="431" width="35.1" height="11" fill="#3178c6" />
-      <rect x="334.0" y="431" width="32.1" height="11" fill="#4493c8" />
-      <rect x="366.1" y="431" width="16.9" height="11" fill="#6e7681" />
+      <rect x="50.0" y="431" width="247.1" height="11" fill="#da5b0b" />
+      <rect x="297.1" y="431" width="35.6" height="11" fill="#3178c6" />
+      <rect x="332.7" y="431" width="33.5" height="11" fill="#4493c8" />
+      <rect x="366.2" y="431" width="16.8" height="11" fill="#6e7681" />
     </g>
-    <text class="label" x="50" y="465">Jupyter 75%</text>
+    <text class="label" x="50" y="465">Jupyter 74%</text>
     <text class="label" x="158" y="465">TypeScript 11%</text>
     <text class="label" x="242" y="465">Python 10%</text>
     <text class="label" x="333" y="465">Other 5%</text>
@@ -90,7 +90,7 @@
     <text class="label" x="545" y="453">followers</text>
     <text class="metric" x="624" y="433">x3</text>
     <text class="label" x="624" y="453">pull shark</text>
-    <text class="sub-label" x="624" y="469">345 merged PRs</text>
+    <text class="sub-label" x="624" y="469">354 merged PRs</text>
     <text class="metric" x="699" y="433">3</text>
     <text class="label" x="699" y="453">achievements</text>
   </g>
