@@ -36,19 +36,19 @@
     <circle cx="50" cy="164" r="4.5" fill="#4493c8" />
     <text class="meta" x="60" y="168">Python</text>
     <text class="meta" x="137" y="168">public</text>
-    <text class="active" x="186" y="168">▲ active</text>
-    <text class="progress mono" x="46" y="189">1 pushes / 15d  ·  0 other  ·  1 open  ·  pushed 14d ago</text>
+    <text class="quiet" x="186" y="168">● quiet</text>
+    <text class="progress mono" x="46" y="189">0 pushes / 15d  ·  0 other  ·  1 open  ·  pushed 15d ago</text>
     <rect class="card" x="423" y="45" width="384" height="155" rx="10" />
     <text class="name" x="444" y="79">zentra</text>
     <text class="repo mono" x="444" y="98">talibilat/zentra</text>
-    <path class="spark" stroke="#a371f7" d="M636.0 70.0 L646.7 88.0 L657.4 82.0 L668.1 92.0 L678.9 90.0 L689.6 92.0 L700.3 92.0 L711.0 92.0 L721.7 92.0 L732.4 92.0 L743.1 92.0 L753.9 92.0 L764.6 92.0 L775.3 92.0 L786.0 92.0" />
+    <path class="spark" stroke="#a371f7" d="M636.0 83.2 L646.7 70.0 L657.4 92.0 L668.1 87.6 L678.9 92.0 L689.6 92.0 L700.3 92.0 L711.0 92.0 L721.7 92.0 L732.4 92.0 L743.1 92.0 L753.9 92.0 L764.6 92.0 L775.3 92.0 L786.0 92.0" />
     <text class="body" x="444" y="124">Zentra is a local-first orchestration kernel that</text>
     <text class="body" x="444" y="143">coordinates bounded software-development tasks through d…</text>
     <circle cx="448" cy="164" r="4.5" fill="#4493c8" />
     <text class="meta" x="458" y="168">TypeScript</text>
     <text class="meta" x="535" y="168">public</text>
     <text class="active" x="584" y="168">▲ active</text>
-    <text class="progress mono" x="444" y="189">5 pushes / 15d  ·  14 other  ·  4 open  ·  pushed 9d ago</text>
+    <text class="progress mono" x="444" y="189">5 pushes / 15d  ·  8 other  ·  4 open  ·  pushed 10d ago</text>
     <rect class="card" x="25" y="212" width="384" height="155" rx="10" />
     <text class="name" x="46" y="246">agent-trail</text>
     <text class="repo mono" x="46" y="265">talibilat/agent-trail</text>
@@ -59,7 +59,7 @@
     <text class="meta" x="60" y="335">Python</text>
     <text class="meta" x="137" y="335">public</text>
     <text class="quiet" x="186" y="335">● quiet</text>
-    <text class="progress mono" x="46" y="356">0 pushes / 15d  ·  0 other  ·  0 open  ·  pushed 30d ago</text>
+    <text class="progress mono" x="46" y="356">0 pushes / 15d  ·  0 other  ·  0 open  ·  pushed 31d ago</text>
     <rect class="card" x="423" y="212" width="384" height="155" rx="10" />
     <text class="name" x="444" y="246">limit-bar</text>
     <text class="repo mono" x="444" y="265">talibilat/limit-bar</text>
@@ -70,7 +70,7 @@
     <text class="meta" x="458" y="335">Swift</text>
     <text class="meta" x="535" y="335">public</text>
     <text class="quiet" x="584" y="335">● quiet</text>
-    <text class="progress mono" x="444" y="356">0 pushes / 15d  ·  0 other  ·  2 open  ·  pushed 31d ago</text>
+    <text class="progress mono" x="444" y="356">0 pushes / 15d  ·  0 other  ·  2 open  ·  pushed 32d ago</text>
     <rect class="card" x="25" y="379" width="384" height="106" rx="10" />
     <text class="name" x="50" y="414">Languages</text>
     <g clip-path="url(#language-bar)">
