@@ -37,7 +37,7 @@
     <text class="meta" x="60" y="168">Python</text>
     <text class="meta" x="137" y="168">public</text>
     <text class="quiet" x="186" y="168">● quiet</text>
-    <text class="progress mono" x="46" y="189">0 pushes / 15d  ·  0 other  ·  1 open  ·  pushed 79d ago</text>
+    <text class="progress mono" x="46" y="189">0 pushes / 15d  ·  0 other  ·  1 open  ·  pushed 80d ago</text>
     <rect class="card" x="423" y="45" width="384" height="155" rx="10" />
     <text class="name" x="444" y="79">zentra</text>
     <text class="repo mono" x="444" y="98">talibilat/zentra</text>
@@ -48,7 +48,7 @@
     <text class="meta" x="458" y="168">TypeScript</text>
     <text class="meta" x="535" y="168">public</text>
     <text class="quiet" x="584" y="168">● quiet</text>
-    <text class="progress mono" x="444" y="189">0 pushes / 15d  ·  0 other  ·  4 open  ·  pushed 74d ago</text>
+    <text class="progress mono" x="444" y="189">0 pushes / 15d  ·  0 other  ·  4 open  ·  pushed 75d ago</text>
     <rect class="card" x="25" y="212" width="384" height="155" rx="10" />
     <text class="name" x="46" y="246">agent-trail</text>
     <text class="repo mono" x="46" y="265">talibilat/agent-trail</text>
@@ -59,25 +59,25 @@
     <text class="meta" x="60" y="335">Python</text>
     <text class="meta" x="137" y="335">public</text>
     <text class="quiet" x="186" y="335">● quiet</text>
-    <text class="progress mono" x="46" y="356">0 pushes / 15d  ·  0 other  ·  0 open  ·  pushed 95d ago</text>
+    <text class="progress mono" x="46" y="356">0 pushes / 15d  ·  0 other  ·  0 open  ·  pushed 96d ago</text>
     <rect class="card" x="423" y="212" width="384" height="155" rx="10" />
     <text class="name" x="444" y="246">limit-bar</text>
     <text class="repo mono" x="444" y="265">talibilat/limit-bar</text>
-    <path class="spark" stroke="#3fb950" d="M636.0 259.0 L646.7 259.0 L657.4 259.0 L668.1 259.0 L678.9 259.0 L689.6 259.0 L700.3 259.0 L711.0 259.0 L721.7 259.0 L732.4 259.0 L743.1 259.0 L753.9 259.0 L764.6 259.0 L775.3 259.0 L786.0 259.0" />
+    <path class="spark" stroke="#3fb950" d="M636.0 259.0 L646.7 259.0 L657.4 259.0 L668.1 259.0 L678.9 259.0 L689.6 259.0 L700.3 259.0 L711.0 259.0 L721.7 259.0 L732.4 259.0 L743.1 259.0 L753.9 259.0 L764.6 259.0 L775.3 237.0 L786.0 237.0" />
     <text class="body" x="444" y="291">A free macOS menu bar app for AI coding usage from Claude</text>
     <text class="body" x="444" y="310">Code, Codex, Azure OpenAI, Anthropic, OpenAI, and local…</text>
     <circle cx="448" cy="331" r="4.5" fill="#4493c8" />
     <text class="meta" x="458" y="335">Swift</text>
     <text class="meta" x="535" y="335">public</text>
-    <text class="quiet" x="584" y="335">● quiet</text>
-    <text class="progress mono" x="444" y="356">0 pushes / 15d  ·  0 other  ·  2 open  ·  pushed today</text>
+    <text class="active" x="584" y="335">▲ active</text>
+    <text class="progress mono" x="444" y="356">2 pushes / 15d  ·  4 other  ·  3 open  ·  pushed today</text>
     <rect class="card" x="25" y="379" width="384" height="106" rx="10" />
     <text class="name" x="50" y="414">Languages</text>
     <g clip-path="url(#language-bar)">
-      <rect x="50.0" y="431" width="246.5" height="11" fill="#da5b0b" />
-      <rect x="296.5" y="431" width="35.8" height="11" fill="#3178c6" />
-      <rect x="332.4" y="431" width="33.9" height="11" fill="#4493c8" />
-      <rect x="366.2" y="431" width="16.8" height="11" fill="#6e7681" />
+      <rect x="50.0" y="431" width="246.2" height="11" fill="#da5b0b" />
+      <rect x="296.2" y="431" width="35.8" height="11" fill="#3178c6" />
+      <rect x="332.0" y="431" width="33.8" height="11" fill="#4493c8" />
+      <rect x="365.9" y="431" width="17.1" height="11" fill="#6e7681" />
     </g>
     <text class="label" x="50" y="465">Jupyter 74%</text>
     <text class="label" x="158" y="465">TypeScript 11%</text>
@@ -90,7 +90,7 @@
     <text class="label" x="545" y="453">followers</text>
     <text class="metric" x="624" y="433">x3</text>
     <text class="label" x="624" y="453">pull shark</text>
-    <text class="sub-label" x="624" y="469">361 merged PRs</text>
+    <text class="sub-label" x="624" y="469">362 merged PRs</text>
     <text class="metric" x="699" y="433">3</text>
     <text class="label" x="699" y="453">achievements</text>
   </g>
