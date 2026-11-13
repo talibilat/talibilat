@@ -37,7 +37,7 @@
     <text class="meta" x="60" y="168">Python</text>
     <text class="meta" x="137" y="168">public</text>
     <text class="quiet" x="186" y="168">● quiet</text>
-    <text class="progress mono" x="46" y="189">0 pushes / 15d  ·  0 other  ·  1 open  ·  pushed 87d ago</text>
+    <text class="progress mono" x="46" y="189">0 pushes / 15d  ·  0 other  ·  1 open  ·  pushed 88d ago</text>
     <rect class="card" x="423" y="45" width="384" height="155" rx="10" />
     <text class="name" x="444" y="79">zentra</text>
     <text class="repo mono" x="444" y="98">talibilat/zentra</text>
@@ -48,7 +48,7 @@
     <text class="meta" x="458" y="168">TypeScript</text>
     <text class="meta" x="535" y="168">public</text>
     <text class="quiet" x="584" y="168">● quiet</text>
-    <text class="progress mono" x="444" y="189">0 pushes / 15d  ·  0 other  ·  4 open  ·  pushed 82d ago</text>
+    <text class="progress mono" x="444" y="189">0 pushes / 15d  ·  0 other  ·  4 open  ·  pushed 83d ago</text>
     <rect class="card" x="25" y="212" width="384" height="155" rx="10" />
     <text class="name" x="46" y="246">agent-trail</text>
     <text class="repo mono" x="46" y="265">talibilat/agent-trail</text>
@@ -59,18 +59,18 @@
     <text class="meta" x="60" y="335">Python</text>
     <text class="meta" x="137" y="335">public</text>
     <text class="quiet" x="186" y="335">● quiet</text>
-    <text class="progress mono" x="46" y="356">0 pushes / 15d  ·  0 other  ·  0 open  ·  pushed 103d ago</text>
+    <text class="progress mono" x="46" y="356">0 pushes / 15d  ·  0 other  ·  0 open  ·  pushed 104d ago</text>
     <rect class="card" x="423" y="212" width="384" height="155" rx="10" />
     <text class="name" x="444" y="246">limit-bar</text>
     <text class="repo mono" x="444" y="265">talibilat/limit-bar</text>
-    <path class="spark" stroke="#3fb950" d="M636.0 259.0 L646.7 259.0 L657.4 259.0 L668.1 259.0 L678.9 259.0 L689.6 259.0 L700.3 248.0 L711.0 244.3 L721.7 237.0 L732.4 259.0 L743.1 259.0 L753.9 259.0 L764.6 259.0 L775.3 259.0 L786.0 259.0" />
+    <path class="spark" stroke="#3fb950" d="M636.0 259.0 L646.7 259.0 L657.4 259.0 L668.1 259.0 L678.9 259.0 L689.6 248.0 L700.3 244.3 L711.0 237.0 L721.7 259.0 L732.4 259.0 L743.1 259.0 L753.9 259.0 L764.6 259.0 L775.3 259.0 L786.0 259.0" />
     <text class="body" x="444" y="291">A free macOS menu bar app for AI coding usage from Claude</text>
     <text class="body" x="444" y="310">Code, Codex, Azure OpenAI, Anthropic, OpenAI, and local…</text>
     <circle cx="448" cy="331" r="4.5" fill="#4493c8" />
     <text class="meta" x="458" y="335">Swift</text>
     <text class="meta" x="535" y="335">public</text>
     <text class="active" x="584" y="335">▲ active</text>
-    <text class="progress mono" x="444" y="356">6 pushes / 15d  ·  7 other  ·  4 open  ·  pushed 6d ago</text>
+    <text class="progress mono" x="444" y="356">6 pushes / 15d  ·  7 other  ·  4 open  ·  pushed 7d ago</text>
     <rect class="card" x="25" y="379" width="384" height="106" rx="10" />
     <text class="name" x="50" y="414">Languages</text>
     <g clip-path="url(#language-bar)">
